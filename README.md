@@ -6,7 +6,8 @@ I'm excited to share a Power BI dashboard project I recently worked on, focused 
 ✅ Used SQL Server as the primary data source
 ✅ Cleaned and queried large datasets to extract key insights
 ✅ Built a dynamic and interactive Power BI dashboard
-✅ Analyzed patterns in loan defaults, identifying trends based on credit history, income, loan amount, and more
+✅ Analyzed patterns in loan defaults, identifying trends based on Loan Default & overview, Applicant Demographics & Financial Profile, Financial Risk Metrics.
+
 
 📈 The goal was to uncover actionable insights that could help financial institutions reduce risk and improve lending strategies.
 
